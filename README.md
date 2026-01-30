@@ -135,21 +135,9 @@ For developers looking to contribute or extend the project, follow the instructi
 The project is organized as follows:
 
 ```
-├── api
-│   └── wine_api.py         # FastAPI endpoint for predictions
-├── data
-│   ├── processed           # Cleaned and processed datasets
-│   └── raw                 # Original CSV files from UCI
-├── models
-│   └── ensemble.pkl        # Trained ensemble model
-├── notebooks
-│   └── analysis.ipynb      # Exploratory Data Analysis (EDA) notebook
-├── src
-│   ├── data_loader.py      # Module for data ingestion
-│   ├── feature_engine.py   # Feature engineering scripts
-│   └── models.py           # Model definitions and utilities
-└── tests
-    └── test_models.py      # Unit tests for model components
+├── images/
+├── Advanced_Wine_Quality_Analysis.ipynb
+└── README.md
 ```
 
 ---
